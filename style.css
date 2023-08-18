@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid pink;
+    color: pink;
+}
+
+.button {
+    margin-top: 20px;
+  }
